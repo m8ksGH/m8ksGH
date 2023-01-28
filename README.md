@@ -8,7 +8,7 @@ Skills: Microsoft Office / Video Editing / Gimp / Photoshop / 3dsMax Basics / Bl
 
 
 
-![](https://github.com/m8ksGH/Simple-Funny-Hangman-Game/blob/master/hmW.png)   ![](https://github.com/m8ksGH/Simple-Funny-Hangman-Game/blob/master/hmL.png)
+
 
 
 
