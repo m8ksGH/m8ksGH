@@ -1,4 +1,4 @@
-![](https://github.com/m8ksGH/m8ksGH/blob/main/sms.png)
+![](https://github.com/m8ksGH/m8ksGH/blob/main/s1.png)
 ### Hi there 👋, I'm Michael Fetalver (Mike)
 #### I am presently a student for a Full Stack Developer 
 
