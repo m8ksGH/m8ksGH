@@ -8,7 +8,7 @@ Skills: Microsoft Office / Gimp / Photoshop / 3dsMax Basics/ Basic Python / Basi
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?m8ksGH=anuraghazra&theme=merko&show_icons=true)
 
 
 
