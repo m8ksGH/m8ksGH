@@ -4,7 +4,7 @@
 
 Formerly an Overseas Filipino Worker who works as a Control Room Operator in  manufacturing plant who tend to shift to I.T. career  
 
-Skills: Microsoft Office / Video Editing / Gimp / Photoshop / 3dsMax Basics / Visual Basic 6 basics / Basic Python / Basic HTML
+Skills: Microsoft Office / Video Editing / Gimp / Photoshop / 3dsMax Basics / Blender basics / Visual Basic 6 basics / Basic Python / Basic HTML
 
 
 
