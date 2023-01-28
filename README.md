@@ -6,7 +6,7 @@ Formerly an Overseas Filipino Worker who works as a Control Room Operator in  ma
 
 Skills: Microsoft Office / Gimp / Photoshop / 3dsMax Basics/ Basic Python / Basic HTML
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
