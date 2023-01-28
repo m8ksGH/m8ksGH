@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Michael Fetalver (Mike)
 #### I am presently a student for a Full Stack Developer 
-![I am presently a student for a Full Stack Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am presently a student for a Full Stack Developer ](https://github.com/m8ksGH/m8ksGH/blob/main/sms.png)
 
 Formerly an Overseas Filipino Worker who works as a Control Room Operator in  manufacturing plant who tend to shift to I.T. career  
 
