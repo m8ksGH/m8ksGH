@@ -8,7 +8,7 @@ Skills: Microsoft Office / Video Editing / Gimp / Photoshop / 3dsMax Basics / Bl
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m8ksGH&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/m8ksGH/Simple-Funny-Hangman-Game/blob/master/hmW.png)   ![](https://github.com/m8ksGH/Simple-Funny-Hangman-Game/blob/master/hmL.png)
 
 
 
