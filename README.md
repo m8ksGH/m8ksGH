@@ -13,6 +13,9 @@ Skills: Microsoft Office / Video Editing / Gimp / Photoshop / 3dsMax Basics / Bl
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m8ksGH&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m8ksGH&layout=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
