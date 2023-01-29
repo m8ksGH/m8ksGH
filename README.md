@@ -17,6 +17,10 @@ Skills: Microsoft Office / Video Editing / Gimp / Photoshop / 3dsMax Basics / Bl
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m8ksGH&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
