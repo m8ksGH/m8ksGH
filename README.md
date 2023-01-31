@@ -15,13 +15,6 @@ Skills: Microsoft Office / Video Editing / Gimp / Photoshop / 3dsMax Basics / Bl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m8ksGH&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🛠 &nbsp;Languages and Tools :
-
-![image](https://user-images.githubusercontent.com/122775112/215656843-19c9a107-a6de-409a-ba25-89a127b25193.png)
-![image](https://user-images.githubusercontent.com/122775112/215656912-ee5abbe8-3428-4b06-8525-a399feab96b9.png)
-![image](https://user-images.githubusercontent.com/122775112/215656946-98560eee-2f2d-4761-9a6b-e6240781ef0f.png)
-![image](https://user-images.githubusercontent.com/122775112/215656987-e40988a2-872c-491a-9c1b-15c75cd5bc85.png)
-
 
 
 
