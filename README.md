@@ -4,7 +4,7 @@
 
 Formerly an Overseas Filipino Worker who works as a Control Room Operator in a manufacturing plant who tend to shift into a Full Stack Developer career  
 
-Skills: Microsoft Office / Video Editing / Gimp / Photoshop / Python / HTML / CSS
+Skills: Microsoft Office / Video Editing / Gimp / Photoshop / Visual Studio Code / Python / HTML / CSS 
 
 
 
